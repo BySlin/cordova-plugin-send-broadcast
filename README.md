@@ -1,3 +1,2 @@
-# cordova-plugin-r6000
-UHF PDA R6000
+# cordova-plugin-send-broadcast
 
