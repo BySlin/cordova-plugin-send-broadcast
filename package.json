@@ -1,0 +1,16 @@
+{
+  "name": "cordova-plugin-send-broadcast",
+  "version": "1.0.0",
+  "description": "cordova-plugin-send-broadcast",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BySlin/cordova-plugin-send-broadcast.git"
+  },
+  "author": "BySlin",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/BySlin/cordova-plugin-send-broadcast/issues"
+  },
+  "homepage": "https://github.com/BySlin/cordova-plugin-send-broadcast#readme"
+}
